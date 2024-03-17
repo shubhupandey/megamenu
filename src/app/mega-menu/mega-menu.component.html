@@ -1,0 +1,21 @@
+<nav class="navbar">
+  <ul class="menu">
+    <li *ngFor="let item of menuData" class="menu-item">
+      <span>{{ item.menu_item }}</span>
+      <div class="card gradient-bg">
+        <div class="submenu">
+          <div class="nav-categories" *ngFor="let subitem of item.submenu">
+            <div class="nav-category">
+              <h3>{{ subitem.category }}</h3>
+              <ul>
+                <li *ngFor="let option of subitem.options" class="option">
+                  <a [href]="option.path" target="_blank">{{ option.title }}</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</nav>

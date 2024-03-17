@@ -1,0 +1,92 @@
+{
+  "header_menu": [
+    {
+      "menu_item": "Electronic",
+      "submenu": [
+        {
+          "category": "Phones",
+          "options": [
+            { "title": "Apple", "path": "/phones/apple" },
+            { "title": "Samsung", "path": "/phones/samsung" },
+            { "title": "Iphones", "path": "/phones/iphones" }
+          ]
+        },
+        {
+          "category": "Laptops",
+          "options": [
+            { "title": "Dell", "path": "/laptops/dell" },
+            { "title": "Asus", "path": "/laptops/asus" },
+            { "title": "Mac", "path": "/laptops/mac" },
+            { "title": "HP", "path": "/laptops/hp" },
+            { "title": "Lenovo", "path": "/laptops/lenovo" }
+          ]
+        },
+        {
+          "category": "Cameras",
+          "options": [
+            { "title": "Canon", "path": "/cameras/canon" },
+            { "title": "Nikon", "path": "/cameras/nikon" },
+            { "title": "Sony", "path": "/cameras/sony" },
+            { "title": "GoPro", "path": "/cameras/gopro" },
+            { "title": "Fujifilm", "path": "/cameras/fujifilm" }
+          ]
+        },
+        {
+          "category": "Televisions",
+          "options": [
+            { "title": "Samsung", "path": "/televisions/samsung" },
+            { "title": "LG", "path": "/televisions/lg" },
+            { "title": "Sony", "path": "/televisions/sony" },
+            { "title": "TCL", "path": "/televisions/tcl" },
+            { "title": "Vizio", "path": "/televisions/vizio" }
+          ]
+        },
+        {
+          "category": "Headphones",
+          "options": [
+            { "title": "Sony", "path": "/headphones/sony" },
+            { "title": "Bose", "path": "/headphones/bose" },
+            { "title": "Sennheiser", "path": "/headphones/sennheiser" },
+            { "title": "Beats", "path": "/headphones/beats" },
+            { "title": "JBL", "path": "/headphones/jbl" },
+            { "title": "Skullcandy", "path": "/headphones/skullcandy" }
+          ]
+        }
+      ]
+    },
+    {
+      "menu_item": "Fashion",
+      "submenu": [
+        {
+          "category": "Mens Cloth",
+          "options": [
+            { "title": "Shirt", "path": "/mens-cloth/shirt" },
+            { "title": "Tshirt", "path": "/mens-cloth/tshirt" },
+            { "title": "Pant", "path": "/mens-cloth/pant" },
+            { "title": "Suit", "path": "/mens-cloth/suit" },
+            { "title": "Jeans", "path": "/mens-cloth/jeans" },
+            { "title": "Jacket", "path": "/mens-cloth/jacket" },
+            { "title": "Sweater", "path": "/mens-cloth/sweater" },
+            { "title": "Hoodie", "path": "/mens-cloth/hoodie" },
+            { "title": "Shorts", "path": "/mens-cloth/shorts" },
+            { "title": "Blazer", "path": "/mens-cloth/blazer" }
+          ]
+        },
+        {
+          "category": "Women Cloth",
+          "options": [
+            { "title": "Dress", "path": "/womens-cloth/dress" },
+            { "title": "Blouse", "path": "/womens-cloth/blouse" },
+            { "title": "Skirt", "path": "/womens-cloth/skirt" },
+            { "title": "Jeans", "path": "/womens-cloth/jeans" },
+            { "title": "Leggings", "path": "/womens-cloth/leggings" },
+            { "title": "Jumpsuit", "path": "/womens-cloth/jumpsuit" },
+            { "title": "Cardigan", "path": "/womens-cloth/cardigan" },
+            { "title": "Sweater", "path": "/womens-cloth/sweater" },
+            { "title": "Hoodie", "path": "/womens-cloth/hoodie" }
+          ]
+        }
+      ]
+    }
+  ]
+}
